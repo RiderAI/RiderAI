@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning advanced machine learning algorithms and cybersecurity techniques.
 - 💞️ I’m looking to collaborate on innovative ML projects and cybersecurity solutions.
 - 📫 How to reach me: i@03t.ru
-- 😄 Pronouns: They/Them</p>
+- 😄 Pronouns: he/him</p>
 - ⚡ Fun fact: I enjoy solving complex puzzles and participating in capture-the-flag (CTF) competitions.
 
 <!---
